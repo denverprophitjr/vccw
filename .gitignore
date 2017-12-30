@@ -15,5 +15,5 @@
 /vendor
 /wp-cli.yml
 /wordpress
-!/wordpress/wp-content/
+!/wordpress/wp-content
 /wp-cli
